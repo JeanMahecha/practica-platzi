@@ -1,5 +1,19 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    Color: blue;
+    Color: rgb(36, 36, 51);
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+}
+#container{
+     width: 70%;
+     padding: 1em;
+     text-align: left;
+     border: 1px solid #DDD;
+     margin: 0 auto;
+
+}
+#container h1{
+    font-size: 20px;
 }
